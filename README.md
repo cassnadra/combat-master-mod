@@ -14,7 +14,7 @@ now you can start the game and youre done :D
 
 name customization tutorial also
 you can customize your name with some HTML tags, most importantly the color related ones. 
-to change name color you can either use <color=(colorname)> or you can use a hex value <#406>. 
+to change name color you can either use `<color=(colorname)>` or you can use a hex value `<#406>`. 
 hex values are much shorter and therefore more applicable, to find a hex value google "color picker" and use the provided tool. youll most likely get a 6 character hex, use this website to convert it to 3: http://maettig.com/?page=PHP/CSS_Color_Converter
-other notable tags are <b> for bold, <i> for italics, <u> for underline, <mark> for a yellow background, etc
+other notable tags are `<b>` for bold, `<i>` for italics, `<u>` for underline, `<mark>` for a yellow background, etc
 you can find a list of all html tags here: https://www.w3schools.com/tags/ however, keep in mind that most wont work.
