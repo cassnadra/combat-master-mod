@@ -19,3 +19,5 @@ to change name color you can either use `<color=(colorname)>` or you can use a h
 hex values are much shorter and therefore more applicable, to find a hex value google "color picker" and use the provided tool. youll most likely get a 6 character hex, use this website to convert it to 3: http://maettig.com/?page=PHP/CSS_Color_Converter
 other notable tags are `<b>` for bold, `<i>` for italics, `<u>` for underline, `<mark>` for a yellow background, etc
 you can find a list of all html tags here: https://www.w3schools.com/tags/ however, keep in mind that most wont work.
+
+update to name thing, the tags are unity rich text tags. https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/StyledText.html
